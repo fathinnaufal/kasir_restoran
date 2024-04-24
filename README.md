@@ -1,11 +1,3 @@
-<p align='center'>
-<img src='https://github.com/haxorsprogramming/All-Project/blob/master/nadha_produk/nadha_resto.png?raw=true' width='500px'>
-</p>
-
-<h1 align="center">Aplikasi Manajemen Restoran</h1>
-<span align="center">
-
-![CI](https://github.com/haxorsprogramming/Nadha-Resto/workflows/CI/badge.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/haxorsprogramming/Nadha-Resto.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg) [![License](https://img.shields.io/github/license/haxorsprogramming/Nadha-Resto.svg)](LICENSE) 
 
 </span>
 
